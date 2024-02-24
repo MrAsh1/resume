@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #f9f8f8da;
+}
+
+.main{
+    font-weight: 500;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    font-family: "Fredoka", sans-serif;
+}
+/* header */
+.header{
+    color: black;
+    border: 10px lightblue ;    
+    border-bottom-style:solid;
+}
+.header h1{
+    font-size:40px;
+}
+.header #surname{
+    font-weight:200;
+}
+.header p #contact{
+    color: gray;
+}
+.header p{
+    font-size: 18px;
+}
+
+/* info */
+.info{
+
+}
+.info #bio{
+    font-weight: 100;
+}
+.info h3{
+    font-size: 700;
+}
+.info h5{
+    color:rgb(172, 89, 172) ;
+    font-size: larger;
+}
+.info #codsoft{
+    font-style: thin;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+#year{
+    font-weight: lighter
+}
+.info #degree{
+    display: flex;
+    justify-content: space-between;
+}
+
+#proj{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}   
+
+
